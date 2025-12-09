@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>💫 I'm Ben Mpussa Ghofrane</h1>
+  <h1>💫 I'm Ben Moussa Ghofrane</h1>
 <p>A passionate fullstack developer from Tunisia</p>
 </div>
 
