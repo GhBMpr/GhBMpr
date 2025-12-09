@@ -8,6 +8,11 @@ A passionate fullstack developer from Tunisia
 ![](https://nirzak-streak-stats.vercel.app/?user=GhBMpr&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GhBMpr&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🌐 Languages (Private + Public Repos )
+
+![Commit Languages](https://raw.githubusercontent.com/GhBMpr/GhBMpr/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
