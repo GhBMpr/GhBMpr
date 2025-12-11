@@ -14,13 +14,3 @@
   <div align="right">
       <img height="250" src="./coding%20girl%20-%20Imgur.gif" alt="Coding GIF">
   </div>
-
-
-
-
-
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
